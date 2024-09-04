@@ -5,24 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EEAF7&width=435&lines=ML+Engineer+%26+BACK-E+Engineer)](https://git.io/typing-svg)
 
 ![Jingi's GitHub stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYourUsername&count_bg=%2347B7E3&title_bg=%235B5D5E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 ---
 
 ## Hi there 👋
 
 <!-- A brief introduction about yourself, what you're working on, and your interests -->
-
----
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@jingit/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:kjg6462@naver.com">
-    <img
-      src="https://img.shields.io/badge/kjg6462@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
 
 ---
 
@@ -71,6 +59,19 @@
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 </div>
 
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@jingit/posts">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:kjg6462@naver.com">
+    <img
+      src="https://img.shields.io/badge/kjg6462@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjg6462)](https://solved.ac/kjg6462)
+---
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjg6462)](https://solved.ac/kjg6462)
+
 ---
