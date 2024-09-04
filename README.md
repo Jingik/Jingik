@@ -8,12 +8,6 @@
 
 ---
 
-## Hi there 👋
-
-<!-- A brief introduction about yourself, what you're working on, and your interests -->
-
----
-
 ## Tech Stack ✨
 
 <div align="center">
