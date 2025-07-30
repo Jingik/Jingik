@@ -2,7 +2,7 @@
 
 # Jingi Kim 💠
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EEAF7&width=435&lines=ML+Engineer+%26+Embedded+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EEAF7&width=435&lines=System+Engineer+%26+Embedded+Engineer)](https://git.io/typing-svg)
 
 ---
 
